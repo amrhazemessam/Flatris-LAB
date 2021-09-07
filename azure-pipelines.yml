@@ -12,13 +12,13 @@ variables:
   azureSubscription: 'SC_AzureGame'
   
   # Web app name
-  webAppName: 'TestGame_RG'
+  webAppName: 'testapp-bc1'
   
   # Resource group
-  resourceGroupName: 'YourRG'
+  resourceGroupName: 'TestGame_RG'
  
   # Environment name
-  environmentName: 'TestGame_RG'
+  environmentName: 'testapp-bc1'
  
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
